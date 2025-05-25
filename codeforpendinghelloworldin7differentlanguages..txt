@@ -1,0 +1,54 @@
+Here are the "Hello World" programs in 7 different languages, all in a pending state (i.e., they won't actually print "Hello World" yet):
+
+**1. C**
+```c
+#include <stdio.h>
+
+int main() {
+  // TO DO: Print "Hello World" here
+  // printf("Hello World\n");
+  return 0;
+}
+```
+**2. Java**
+```java
+public class HelloWorld {
+  public static void main(String[] args) {
+    // TO DO: Print "Hello World" here
+    // System.out.println("Hello World");
+  }
+}
+```
+**3. Python**
+```python
+# TO DO: Print "Hello World" here
+# print("Hello World")
+```
+**4. C++**
+```cpp
+#include <iostream>
+
+int main() {
+  // TO DO: Print "Hello World" here
+  // std::cout << "Hello World" << std::endl;
+  return 0;
+}
+```
+**5. JavaScript**
+```javascript
+// TO DO: Print "Hello World" here
+// console.log("Hello World");
+```
+**6. Ruby**
+```ruby
+# TO DO: Print "Hello World" here
+# puts "Hello World"
+```
+**7. Swift**
+```swift
+import Swift
+
+// TO DO: Print "Hello World" here
+// print("Hello World")
+```
+Just uncomment the lines to make them work!

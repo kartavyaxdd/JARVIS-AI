@@ -1,0 +1,47 @@
+Here are the "Hello, World!" programs in 7 different programming languages:
+
+**1. Python**
+```
+print("Hello, World!")
+```
+**2. Java
+```
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, World!");
+  }
+}
+```
+**3. C++**
+```cpp
+#include <iostream>
+
+int main() {
+  std::cout << "Hello, World!";
+  return 0;
+}
+```
+**4. JavaScript**
+```
+console.log("Hello, World!");
+```
+**5. C#**
+```csharp
+using System;
+
+class HelloWorld 
+{
+    static void Main(string[] args) 
+    {
+        Console.WriteLine("Hello, World!");    
+    }
+}
+**6. Ruby**
+```ruby
+puts "Hello, World!""
+```
+**7. Swift**
+```swift
+print("Hello, World!")
+```
+Note: These are the simplest forms of "Hello, World!" programs in each language.
