@@ -1,9 +1,0 @@
-I'll write a simple Python program for you. Here's a program that prints "Hello, World!" to the screen:
-
-```
-# This is a comment - anything after the "#" symbol is ignored by the compiler
-
-print("Hello, World!")  # This line prints the string to the screen
-```
-
-If you want something more complex, please let me know!
